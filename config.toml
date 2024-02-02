@@ -14,8 +14,8 @@ taxonomies = [
 ]
 
 [languages.en]
-title = "Anatole"
-description = "A other zola theme"
+title = "GG's Blog"
+description = "Stories on Software engineering."
 generate_feed = true
 
 
@@ -44,3 +44,5 @@ flickr = ""
 [extra.show]
 tags = true
 links = true
+
+extra.default_mode = "dark"
