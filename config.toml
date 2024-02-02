@@ -71,15 +71,15 @@ hard_link_static = false
 
 
 [languages]
-    # [languages.en]
-    #     title = "Website name"
-    #     description = "Website Description"
-    #     generate_feed = true
-    #     feed_filename = "atom.xml"
-    #     taxonomies = [
-    #         { name = "tags", feed = true, paginate_by = 5  },
-    #         { name = "categories", feed = true, paginate_by = 5 }
-    #     ]
+    [languages.en]
+        title = "Website name"
+        description = "Website Description"
+        generate_feed = true
+        feed_filename = "atom.xml"
+        taxonomies = [
+            { name = "tags", feed = true, paginate_by = 5  },
+            { name = "categories", feed = true, paginate_by = 5 }
+        ]
 
     [languages.es]
         title = "Gerson's website"
@@ -92,30 +92,30 @@ hard_link_static = false
         ]
 
 
-    # [languages.en.translations]
-    #     post = "Post"
-    #     category = "Category"
-    #     tag = "Tag"
-    #     search = "Search"
+    [languages.en.translations]
+        post = "Post"
+        category = "Category"
+        tag = "Tag"
+        search = "Search"
 
-    #     404_message = "Page not found"
+        404_message = "Page not found"
 
-    #     by = "By"
-    #     posted = "Posted"
-    #     updated = "Updated"
-    #     categories = "Categories"
-    #     tags = "Tags"
-    #     share = "Share"
+        by = "By"
+        posted = "Posted"
+        updated = "Updated"
+        categories = "Categories"
+        tags = "Tags"
+        share = "Share"
 
-    #     next = "Next"
-    #     previous = "Previous"
+        next = "Next"
+        previous = "Previous"
 
-    #     short_copyright = "Some rights reserved."
-    #     full_copyright = """\
-    #         Except where otherwise noted, the blog posts on this site are \
-    #         licensed under the Creative Commons Attribution 4.0 International \
-    #         (CC BY 4.0) License by the author.\
-    #         """
+        short_copyright = "Some rights reserved."
+        full_copyright = """\
+            Except where otherwise noted, the blog posts on this site are \
+            licensed under the Creative Commons Attribution 4.0 International \
+            (CC BY 4.0) License by the author.\
+            """
 
     [languages.es.translations]
         post = "Entrada"
