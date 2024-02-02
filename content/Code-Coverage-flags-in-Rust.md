@@ -1,7 +1,7 @@
 +++
 title = "Code Coverage flags in Rust"
 template = "page.html"
-date = 2024-02-03T15:00:00Z
+date = 2024-02-03T03:25:45+05:30
 [taxonomies]
 tags = ["rust", "code coverage", "rustflags"]
 [extra]
@@ -9,7 +9,7 @@ summary = "Shows how to use code coverage flags in Rust"
 +++
 
 
-# Getting code coverage data for Rust projects:
+## Getting code coverage data for Rust projects:
 
 
 
@@ -21,7 +21,7 @@ Rust provides 2 different flags to collect code coverage data
 
 
 
-## Using -Z profile:
+### Using -Z profile:
 
 This uses the gcc-compatible gcov based coverage implementation. It helps in collecting coverage data based on DebugInfo. This is very useful when we want to see which parts of your code are being executed and which aren’t. This flag cannot be used when compiling incrementally.
 
