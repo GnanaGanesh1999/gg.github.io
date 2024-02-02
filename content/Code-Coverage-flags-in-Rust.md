@@ -13,7 +13,7 @@ summary = "Shows how to use code coverage flags in Rust"
 
 
 
-Rust provides 3 different flags to collect code coverage data
+Rust provides 2 different flags to collect code coverage data
 
 1. Using -Z profile
 
