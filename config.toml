@@ -81,15 +81,15 @@ hard_link_static = false
             { name = "categories", feed = true, paginate_by = 5 }
         ]
 
-    [languages.es]
-        title = "Gerson's website"
-        description = "Proyectos, opinión, tecnología y más"
-        generate_feed = true
-        feed_filename = "atom.xml"
-        taxonomies = [
-            { name = "tags", feed = true, paginate_by = 5  },
-            { name = "categories", feed = true, paginate_by = 5 }
-        ]
+    # [languages.es]
+    #     title = "Gerson's website"
+    #     description = "Proyectos, opinión, tecnología y más"
+    #     generate_feed = true
+    #     feed_filename = "atom.xml"
+    #     taxonomies = [
+    #         { name = "tags", feed = true, paginate_by = 5  },
+    #         { name = "categories", feed = true, paginate_by = 5 }
+    #     ]
 
 
     [languages.en.translations]
@@ -117,30 +117,30 @@ hard_link_static = false
             (CC BY 4.0) License by the author.\
             """
 
-    [languages.es.translations]
-        post = "Entrada"
-        category = "Categoría"
-        tag = "Etiqueta"
-        search = "Buscar"
+    # [languages.es.translations]
+    #     post = "Entrada"
+    #     category = "Categoría"
+    #     tag = "Etiqueta"
+    #     search = "Buscar"
 
-        404_message = "Página no encontrada"
+    #     404_message = "Página no encontrada"
 
-        by = "Por"
-        posted = "Publicado"
-        updated = "Actualizado"
-        categories = "Categorías"
-        tags = "Etiquetas"
-        share = "Compartir"
+    #     by = "Por"
+    #     posted = "Publicado"
+    #     updated = "Actualizado"
+    #     categories = "Categorías"
+    #     tags = "Etiquetas"
+    #     share = "Compartir"
 
-        next = "Siguiente"
-        previous = "Anterior"
+    #     next = "Siguiente"
+    #     previous = "Anterior"
 
-        short_copyright = "Algunos derechos reservados."
-        full_copyright = """\
-            Salvo que se indique explícitamente, las entradas de este blog \
-            están licenciadas bajo la Creative Commons Attribution 4.0 \
-            International (CC BY 4.0) License por el autor.\
-            """
+    #     short_copyright = "Algunos derechos reservados."
+    #     full_copyright = """\
+    #         Salvo que se indique explícitamente, las entradas de este blog \
+    #         están licenciadas bajo la Creative Commons Attribution 4.0 \
+    #         International (CC BY 4.0) License por el autor.\
+    #         """
 
 
 [markdown]
