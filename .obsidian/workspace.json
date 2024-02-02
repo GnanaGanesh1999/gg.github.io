@@ -138,6 +138,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2062e340b498b73f",
-  "lastOpenFiles": []
+  "active": "cc12d9c2581fd920",
+  "lastOpenFiles": [
+    "themes/ataraxia/scss/colors/open-color.scss",
+    "themes/ataraxia/scss/custom.scss",
+    "themes/ataraxia/scss/colors",
+    "themes/ataraxia/scss",
+    "themes/ataraxia/mockup.png",
+    "themes/ataraxia/config_sample.toml",
+    "themes/ataraxia/NEWS.md",
+    "themes/ataraxia/LICENSE",
+    "templates",
+    "static/images/favicon/mstile-70x70.png",
+    "static/images/favicon/site.webmanifest",
+    "static/images/favicon/safari-pinned-tab.svg",
+    "static/images/favicon/mstile-310x310.png",
+    "static/images/favicon/mstile-310x150.png",
+    "static/images/favicon/mstile-150x150.png",
+    "static/images/favicon/mstile-144x144.png",
+    "static/images/favicon/favicon.ico",
+    "static/images/favicon/favicon-32x32.png",
+    "static/images/favicon/favicon-16x16.png",
+    "static/images/favicon/browserconfig.xml",
+    "static/images/favicon/apple-touch-icon.png",
+    "static/images/favicon",
+    "content/blog/2023/_index.md",
+    "content/blog/2023/2023-03-23-que-hacer-despues-de-instalar-fedora-36.md",
+    "content/blog/2022/_index.md",
+    "content/blog/2022/2022-15-08-hola-mundo.md",
+    "content/projects/_index.md",
+    "content/projects/2022-18-08-ataraxia-zola.md",
+    "content/projects/2021-01-05-glib-gtk-book.md",
+    "content/blog/_index.md",
+    "content/_index.md",
+    "README.md",
+    "content/projects/2021-01-06-glib-gtk-book.md"
+  ]
 }
