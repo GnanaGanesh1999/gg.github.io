@@ -46,7 +46,7 @@ hard_link_static = false
             { name = "Proyectos", url = "@/projects/_index.md", icon = "bi-terminal" },
             { name = "Categorías", url = "https://www.gersonb.dev/categories", icon = "bi-bookmarks" }
         ]
-    
+
     [extra.social]
         author_link = "https://www.gersonb.dev/"
         twitter = "@gersonbdev"
@@ -106,7 +106,7 @@ hard_link_static = false
     #     categories = "Categories"
     #     tags = "Tags"
     #     share = "Share"
-        
+
     #     next = "Next"
     #     previous = "Previous"
 
@@ -131,10 +131,10 @@ hard_link_static = false
         categories = "Categorías"
         tags = "Etiquetas"
         share = "Compartir"
-        
+
         next = "Siguiente"
         previous = "Anterior"
-        
+
         short_copyright = "Algunos derechos reservados."
         full_copyright = """\
             Salvo que se indique explícitamente, las entradas de este blog \
@@ -172,7 +172,6 @@ hard_link_static = false
 
     internal_level = "error"
     external_level = "error"
-
 
 [slugify]
     paths = "on"
