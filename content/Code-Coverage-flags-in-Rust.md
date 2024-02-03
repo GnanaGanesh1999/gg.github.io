@@ -5,7 +5,7 @@ date = 2024-02-03T03:25:45+05:30
 [taxonomies]
 tags = ["rust", "code coverage", "rustflags"]
 [extra]
-summary = "Shows how to use code coverage flags in Rust"
+summary = "Micro-blog on code coverage flags in Rust"
 +++
 
 
