@@ -138,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc12d9c2581fd920",
+  "active": "2062e340b498b73f",
   "lastOpenFiles": [
+    "content/Rust on Autoware.md",
+    "content/Untitled.md",
     "content/Code Coverage flags in Rust.md",
     "content/Code-Coverage-flags-in-Rust.md",
     "public/tags/rustflags/index.html",
@@ -182,8 +184,6 @@
     "content/archive/_index.md",
     "content/archive/_index.de.md",
     "content/about/_index.zh.md",
-    "content/about/_index.sv.md",
-    "content/about/_index.md",
     "themes/anatole-zola/static/images/logo@2x.png",
     "themes/anatole-zola/static/images/logo.png"
   ]
