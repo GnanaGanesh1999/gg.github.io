@@ -7,7 +7,7 @@ tags = ["rust", "autoware"]
 [extra]
 summary = ""
 +++
-### Introduction
+### Introductionx
 Autoware is a software platform for autonomous driving that provides various capabilities such as perception, planning, control, simulation, and visualization. Autoware is based on the Robot Operating System (ROS) and is designed to be modular, scalable, and open-source.
 
 Rust is a modern programming language that offers many benefits for automotive software development. Rust enforces memory safety and safe concurrency at compile time, which prevents common errors such as memory leaks, data races and use-after-free vulnerabilities. These errors can cause unpredictable and catastrophic failures in complex embedded systems that require high levels of functional safety and security. Rust also has comparable performance with C and C++, the traditional languages used for automotive software, but with a more mature ecosystem of tools and libraries. Rust is being evaluated by several automotive organisations as a potential alternative for developing software defined vehicles (SDVs) that feature electrification, autonomous driving and connectivity.
