@@ -1,7 +1,7 @@
 # The base URL of the site.
 
 base_url = "https://gnanaganesh.netlify.app"
-theme = "anatole-zola"
+# theme = "anatole-zola"
 
 compile_sass = true
 highlight_code = true
@@ -39,4 +39,5 @@ linkedin = "gnana-ganesh"
 tags = true
 links = true
 
-extra.default_mode = "dark"
+[extra]
+mode = "dark"
