@@ -11,7 +11,7 @@ summary = ""
 - what is autoware
 - why Rust
 - build system
-- interoperablity
+- interoperability
 - creating the project
 - developing the project
 	- matrix structure
