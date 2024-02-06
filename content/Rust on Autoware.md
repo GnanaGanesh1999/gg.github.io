@@ -8,8 +8,8 @@ tags = ["rust", "autoware"]
 summary = ""
 +++
 ### Flow
-- [[gg.github.io/content/Rust on Autoware#Introduction|Introduction]]
-- [[gg.github.io/content/Rust on Autoware#What are we going to write in Rust?|What are we going to write in Rust?]]
+- [Introduction](@/Rust on Autoware.md#Introduction)
+- What are we going to write in Rust?
 - 
 
 ### Introduction  
