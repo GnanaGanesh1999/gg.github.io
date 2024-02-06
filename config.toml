@@ -32,8 +32,8 @@ last_page = "Last Page"
 
 
 [extra.social]
-github = "https://github.com/GnanaGanesh1999"
-linkedin = "https://www.linkedin.com/in/gnana-ganesh/"
+github = "GnanaGanesh1999"
+linkedin = "gnana-ganesh"
 
 [extra.show]
 tags = true
