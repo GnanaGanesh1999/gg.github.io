@@ -1,7 +1,7 @@
 +++
 title = "Rust on Autoware"
 template = "page.html"
-date = 2024-02-03T03:25:45+05:30
+date = 2024-02-06T17:01:59+05:30
 [taxonomies]
 tags = ["rust", "autoware"]
 [extra]
