@@ -8,17 +8,9 @@ tags = ["rust", "autoware"]
 summary = ""
 +++
 ### Flow
-- what is autoware
-- why Rust
-- build system
-- interoperability
-- creating the project
-- developing the project
-	- matrix structure
-	- conversion from one type to another
-- building the project
-- testing the project
-- generating test reports
+- [[gg.github.io/content/Rust on Autoware#Introduction|Introduction]]
+- [[gg.github.io/content/Rust on Autoware#What are we going to write in Rust?|What are we going to write in Rust?]]
+- 
 
 ### Introduction  
 Autoware is a software platform for autonomous driving that provides various capabilities such as perception, planning, control, simulation, and visualization. Autoware is based on the Robot Operating System (ROS) and is designed to be modular, scalable, and open-source.   
