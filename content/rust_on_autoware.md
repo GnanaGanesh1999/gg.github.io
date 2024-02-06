@@ -1,7 +1,7 @@
 +++
 title = "Rust on Autoware"
 template = "page.html"
-date = 2024-02-06T17:01:59+05:30
+date = 2024-02-06T17:13:14+05:30
 [taxonomies]
 tags = ["rust", "autoware"]
 [extra]
@@ -9,7 +9,8 @@ summary = ""
 +++
 ### Flow
 - [Introduction](@/rust_on_autoware.md#Introduction)
-- What are we going to write in Rust?
+- [What are we going to write in Rust?](@/rust_on_autoware.md#What are we going to write in Rust?)
+- [Build the project](@/rust_on_autoware.md#Build the project)
 - 
 
 ### Introduction  
