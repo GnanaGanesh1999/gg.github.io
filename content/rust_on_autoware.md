@@ -7,12 +7,6 @@ tags = ["rust", "autoware"]
 [extra]
 summary = ""
 +++
-### Flow
-- [Introduction](@/rust_on_autoware.md#Introduction)
-- [What are we going to write in Rust?](@/rust_on_autoware.md#What are we going to write in Rust?)
-- [Build the project](@/rust_on_autoware.md#Build the project)
-- 
-
 ### Introduction  
 Autoware is a software platform for autonomous driving that provides various capabilities such as perception, planning, control, simulation, and visualization. Autoware is based on the Robot Operating System (ROS) and is designed to be modular, scalable, and open-source.   
   
