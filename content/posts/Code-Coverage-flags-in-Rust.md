@@ -9,7 +9,7 @@ summary = "Micro-blog on code coverage flags in Rust"
 +++
 
 
-## Getting code coverage data for Rust projects:
+## Getting code coverage data for Rust projects
 
 
 
