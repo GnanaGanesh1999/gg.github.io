@@ -14,8 +14,8 @@ taxonomies = [
 ]
 
 [languages.en]
-title = "GG's Blog"
-description = "Stories on Software engineering."
+title = "Bytes and Bubbles"
+description = "Where Code Meets Comics! 🎨👾"
 generate_feed = true
 
 
