@@ -4,5 +4,7 @@
 [submodule "themes/anatole-zola"]
     path = themes/anatole-zola
     url = https://github.com/longfangsong/anatole-zola.git
-
+[submodule "themes/papermod"]
+    path = themes/papermod
+    url = https://github.com/cydave/zola-theme-papermod.git
 
