@@ -21,7 +21,7 @@ highlight_code = true
 [extra]
 
 [extra.papermod]
-title = "Bytomic"
+title = "Bytomics"
 default_theme = "auto"
 theme = "light"
 language_direction = "auto"
@@ -44,7 +44,7 @@ navigation = [
     { url = "https://getzola.com/", title = "Zola", is_external = true }
 ]
 
-home_title = "Bytomic"
+home_title = "Bytomics"
 home_content = "Where Code Meets Comics! 🎨👾"
 social_icons = [
     { url = "https://github.com/cydave", title = "GitHub", icon = "github" },
