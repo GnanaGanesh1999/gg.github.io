@@ -47,8 +47,8 @@ navigation = [
 home_title = "ComicBytes"
 home_content = "Where Code Meets Comics! 🎨👾"
 social_icons = [
-    { url = "https://github.com/cydave", title = "GitHub", icon = "github" },
-    { url = "https://infosec.exchange/@cydave", title = "Mastodon", icon = "mastodon" },
-    { url = "https://twitter.com/_cydave", title = "Twitter", icon = "twitter" },
-    { url = "$BASE_URL/atom.xml", title = "RSS", icon = "rss" },
+    { url = "https://github.com/GnanaGanesh1999", title = "GitHub", icon = "github" },
+    # { url = "https://infosec.exchange/@cydave", title = "Mastodon", icon = "mastodon" },
+    { url = "https://twitter.com/gnanaganesh07", title = "Twitter", icon = "twitter" },
+    # { url = "$BASE_URL/atom.xml", title = "RSS", icon = "rss" },
 ]
