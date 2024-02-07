@@ -1,6 +1,6 @@
 # The base URL of the site.
 
-base_url = "https://gnanaganesh.netlify.app"
+base_url = "https://comicbytes.netlify.app"
 theme = "papermod"
 
 compile_sass = true
@@ -21,7 +21,7 @@ highlight_code = true
 [extra]
 
 [extra.papermod]
-title = "Bytomics"
+title = "ComicBytes"
 default_theme = "auto"
 theme = "light"
 language_direction = "auto"
@@ -44,7 +44,7 @@ navigation = [
     { url = "https://getzola.com/", title = "Zola", is_external = true }
 ]
 
-home_title = "Bytomics"
+home_title = "ComicBytes"
 home_content = "Where Code Meets Comics! 🎨👾"
 social_icons = [
     { url = "https://github.com/cydave", title = "GitHub", icon = "github" },
