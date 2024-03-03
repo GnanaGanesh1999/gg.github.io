@@ -11,6 +11,7 @@ summary = "Micro-blog on code coverage flags in Rust"
 
 ## Getting code coverage data for Rust projects
 
+![Image](images/toc.png)
 
 
 Rust provides 2 different flags to collect code coverage data
